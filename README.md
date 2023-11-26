@@ -24,7 +24,8 @@ Ideal for data scientists, financial analysts, and policy researchers focusing o
 Look out for updates integrating daily news articles and policy information, enhancing the dataset's depth and predictive accuracy.
 
 ## Contributing
-Contributed by Haochen Xue<sup>1</sup>, Kaiyu Liang<sup>2</sup>, Chong Zhang<sup>1</sup>, Mingyu Jin<sup>3</sup>, 
+Contributed by 
+Haochen Xue<sup>1</sup>, Kaiyu Liang<sup>2</sup>, Chong Zhang<sup>1</sup>, Mingyu Jin<sup>3</sup>, 
 Hongchen Wang<sup>1</sup>, Zile Huang<sup>1</sup>, Zihong Luo<sup>1</sup>, Chengzhi Liu<sup>1</sup>, 
 Xiaojun Zhu<sup>2</sup>, Xiaobo Jin<sup>1</sup>
 
