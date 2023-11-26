@@ -34,4 +34,4 @@ Xiaojun Zhu<sup>2</sup>, Xiaobo Jin<sup>1</sup>
 <sup>3</sup>Department of Electrical and Computer Engineering, Northwestern University  
 
 ## License
-This project is under [LICENSE NAME] - details in [LICENSE.md](LINK_TO_LICENSE).
+No license, feel free to use, however, don't forget to cite us. 
