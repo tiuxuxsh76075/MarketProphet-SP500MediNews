@@ -11,9 +11,7 @@ This dataset marks a significant shift from traditional financial datasets by:
 
 # Contribution
 @article{xuemarketprophet,
-  title={MarketProphet-SP500MediNews: Forecasting Healthcare Sector S\&P 500 Index Trends Using Data from 22 Key Stocks and Medical News Insights},
-  
-  author={Xue, Haochen and Liang, Kaiyu and Zhang, Chong and Wang, Hongchen and Zhu, Xiaojun and Jin, Xiaobo}
+  title={MarketProphet-SP500MediNews: Forecasting Healthcare Sector S\&P 500 Index Trends Using Data from 22 Key Stocks and Medical News Insights},\n author={Xue, Haochen and Liang, Kaiyu and Zhang, Chong and Wang, Hongchen and Zhu, Xiaojun and Jin, Xiaobo}
   
 }
 
