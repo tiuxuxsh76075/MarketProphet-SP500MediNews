@@ -9,6 +9,12 @@ This dataset marks a significant shift from traditional financial datasets by:
 - **Market-Influential Stock Selection**: Prioritizing stocks with high trading volume and significant impact on the market.
 - **Filling the Research Gap**: Unlike prior datasets focusing on individual stocks, this dataset provides insights into the S&P 500 index in the medical sector, a previously unaddressed domain.
 
+# Contribution
+@article{xuemarketprophet,
+  title={MarketProphet-SP500MediNews: Forecasting Healthcare Sector S\&P 500 Index Trends Using Data from 22 Key Stocks and Medical News Insights},
+  author={Xue, Haochen and Liang, Kaiyu and Zhang, Chong and Wang, Hongchen and Zhu, Xiaojun and Jin, Xiaobo}
+}
+
 ## Current Contents
 - Trading data from 22 select healthcare stocks, chosen for their market impact.
 - S&P 500 healthcare sector index data.
