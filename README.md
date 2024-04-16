@@ -40,7 +40,13 @@ Xiaojun Zhu<sup>2</sup>, Xiaobo Jin<sup>1</sup>
 <sup>3</sup>Department of Electrical and Computer Engineering, Northwestern University  
 
 ## Cite
-@article{xuemarketprophet,
-  title={MarketProphet-SP500MediNews: Forecasting Healthcare Sector S\&P 500 Index Trends Using Data from 22 Key Stocks and Medical News Insights},
-  author={Xue, Haochen and Liang, Kaiyu and Zhang, Chong and Wang, Hongchen and Zhu, Xiaojun and Jin, Xiaobo}
+```
+
+@article{ye2023language,
+  title={Language is All a Graph Needs},
+  author={Ye, Ruosong and Zhang, Caiqi and Wang, Runhui and Xu, Shuyuan and Zhang, Yongfeng},
+  journal={EACL},
+  year={2024}
 }
+
+```
